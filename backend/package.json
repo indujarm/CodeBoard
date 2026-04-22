@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6"
+  },
+"scripts": {
+  "start": "set BROWSER=chrome && set BROWSER_ARGS=--new-window && react-scripts start"
+}
+}

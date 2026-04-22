@@ -1,0 +1,13 @@
+.line-owner-text {
+  color: #00ffcc;
+  margin-left: 20px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+
+.fake-comment {
+  color: #6a9955; /* VS Code comment green */
+  font-style: italic;
+  margin-left: 10px;
+}
